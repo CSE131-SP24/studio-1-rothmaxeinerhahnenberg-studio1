@@ -20,6 +20,7 @@ public class HiFour {
 		//
 		// Say hello to the names in s0 through s3.
 		//
-
+		String space = ", ";
+		System.out.print("Greetings " +s0+space+s1+space+s2+", and "+s3+".");
 	}
 }
